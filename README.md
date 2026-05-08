@@ -7,7 +7,7 @@ Currently I know HTML, CSS, and JavaScript.
 
 
 - 🔭 I’m currently working on getting my certificate with TripleTen to start off my carrer in Software Engineering.
-- 🌱 I’m currently working on learning how to become a fron-end developer.
+- 🌱 I’m currently working on learning how to become a front-end developer.
 - 📫 How to reach me: You can reach me here at my [Linkedin Profile.](www.linkedin.com/in/brock-austin)
 - ⚡ Fun fact: I enjoy playing Video Games while learning their coding and how they did it as I am playing the game.
 
